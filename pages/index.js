@@ -13,14 +13,14 @@ export default function Home() {
         <h1 className="title">
           Read{' '}
           <Link href="/posts/first-post">
-            <a>this page!</a>
+            <a>this page! (not working yet)</a>
           </Link>
         </h1>
 
         <h7 className="title">
           Read{' '}
           <Link href="/posts/second-post">
-            <a>check out my second post!</a>
+            <a>check out my second post! (not working yet)</a>
           </Link>
         </h7>
 
